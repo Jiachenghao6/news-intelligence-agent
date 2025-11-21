@@ -1,7 +1,3 @@
-这是一个为您准备的中英双语版 `README.md`。您可以直接复制保存。
-
------
-
 # 🦅 宏观政策套利情报系统 | Macro Policy Arbitrage Intelligence System
 
 **🇨🇳 中文**
